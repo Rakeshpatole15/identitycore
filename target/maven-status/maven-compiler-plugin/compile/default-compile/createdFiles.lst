@@ -1,0 +1,11 @@
+com\javatechie\IdentityServiceApplication.class
+com\javatechie\config\CustomUserDetailsService.class
+com\javatechie\service\AuthService.class
+com\javatechie\dto\AuthRequest.class
+com\javatechie\entity\UserCredential.class
+com\javatechie\IdentityServiceApplication$1.class
+com\javatechie\config\AuthConfig.class
+com\javatechie\service\JwtService.class
+com\javatechie\controller\AuthController.class
+com\javatechie\repository\UserCredentialRepository.class
+com\javatechie\config\CustomUserDetails.class
